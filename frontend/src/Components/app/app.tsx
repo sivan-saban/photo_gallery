@@ -57,6 +57,7 @@ function App(): JSX.Element {
       <p>downloads: ${photo.downloads}</p>
       <p>collection: ${photo.collections}</p>
       <p>likes: ${photo.likes}</p>
+      <p>tags: ${photo.tags}</p>
     `);
   };
 
